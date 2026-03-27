@@ -1,0 +1,34 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega168"</DEVICE>
+ <WORKING_DIR>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m168def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\Debug\lab8.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>lab8.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>lab8.map</FILE>
+  <FILE>lab8.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <string><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>20</LINE></string>
+  <init><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>82</LINE></init>
+  <USART_Recieve><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>45</LINE></USART_Recieve>
+  <walk><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>28</LINE></walk>
+  <store><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>36</LINE></store>
+  <init_string><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>71</LINE></init_string>
+  <loop><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>112</LINE></loop>
+  <out_com><FILE>C:\Users\Михаил\Documents\Atmel Studio\7.0\lab8\lab8\main.asm</FILE><LINE>118</LINE></out_com>
+ </LABELS>
+</ASSEMBLER_INFO>
